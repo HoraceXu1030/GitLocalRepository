@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\bin\Debug\thinger.VisionControlLib.dll
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\bin\Debug\thinger.VisionControlLib.pdb
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.AxisControl.resources
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.dll
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.pdb
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.Properties.Resources.resources
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\bin\Debug\thinger.VisionControlLib.dll
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\bin\Debug\thinger.VisionControlLib.pdb
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.csproj.AssemblyReference.cache
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.AxisControl.resources
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.Properties.Resources.resources
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.csproj.GenerateResource.cache
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.csproj.CoreCompileInputs.cache
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.dll
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionControlLib\obj\Debug\thinger.VisionControlLib.pdb

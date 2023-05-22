@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\thinger.VisionModels.dll
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\thinger.VisionModels.pdb
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.dll
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.pdb
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.csproj.CopyComplete
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\thinger.VisionModels.dll
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\thinger.VisionModels.pdb
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\halcondotnet.dll
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.csproj.AssemblyReference.cache
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.csproj.CoreCompileInputs.cache
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.csproj.CopyComplete
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.dll
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\obj\Debug\thinger.VisionModels.pdb
+C:\Users\THINGER\Desktop\thinger.VisionProject\thinger.VisionModels\bin\Debug\halcondotnet.xml
